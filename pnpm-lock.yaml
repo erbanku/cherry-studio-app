@@ -321,8 +321,8 @@ importers:
         specifier: ~15.0.7
         version: 15.0.10(expo@54.0.30(@babel/core@7.28.5)(react-native-webview@13.15.0(react-native@0.81.4(@babel/core@7.28.5)(@types/react@19.1.17)(react@19.1.0))(react@19.1.0))(react-native@0.81.4(@babel/core@7.28.5)(@types/react@19.1.17)(react@19.1.0))(react@19.1.0))(react-native@0.81.4(@babel/core@7.28.5)(@types/react@19.1.17)(react@19.1.0))
       fast-xml-parser:
-        specifier: ^5.3.5
-        version: 5.3.5
+        specifier: ^5.3.6
+        version: 5.3.6
       heroui-native:
         specifier: ^1.0.0-beta.10
         version: 1.0.0-beta.10(5280ed1e173822f96bf13442a2e2394d)
@@ -5246,8 +5246,8 @@ packages:
     resolution: {integrity: sha512-pfX9uG9Ki0yekDHx2SiuRIyFdyAr1kMIMitPvb0YBo8SUfKvia7w7FIyd/l6av85pFYRhZscS75MwMnbvY+hcQ==}
     hasBin: true
 
-  fast-xml-parser@5.3.5:
-    resolution: {integrity: sha512-JeaA2Vm9ffQKp9VjvfzObuMCjUYAp5WDYhRYL5LrBPY/jUDlUtOvDfot0vKSkB9tuX885BDHjtw4fZadD95wnA==}
+  fast-xml-parser@5.3.6:
+    resolution: {integrity: sha512-QNI3sAvSvaOiaMl8FYU4trnEzCwiRr8XMWgAHzlrWpTSj+QaCSvOf1h82OEP1s4hiAXhnbXSyFWCf4ldZzZRVA==}
     hasBin: true
 
   fault@1.0.4:
@@ -14540,7 +14540,7 @@ snapshots:
     dependencies:
       strnum: 2.1.2
 
-  fast-xml-parser@5.3.5:
+  fast-xml-parser@5.3.6:
     dependencies:
       strnum: 2.1.2
 
